@@ -11,11 +11,12 @@ Simple ChucK interface for the CalArts MTIID Machine Lab HID robots.
 - Run initialize.ck.
 
 
-# HIDUI
+# HID UI
 JP Yepez
 CalArts MTIID 2016
 
-#programmers (from the mtiid/robots repo)
+# Programmers 
+(from the mtiid/robots repo)
 
 hiduino-robot-server and midi-robot-client written by Ness Morris and Bruce Lott in the winter of 2013-2014, based on code by Ajay Kapur, Owen Vallis, and Dimitri Diakopoulos
 
