@@ -14,6 +14,8 @@ Simple ChucK interface for the CalArts MTIID Machine Lab HID robots.
 # HID UI
 JP Yepez
 
+juanpabloyepez@alum.calarts.edu
+
 CalArts MTIID 2016
 
 # Programmers 
